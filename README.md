@@ -17,7 +17,9 @@ I'm a front end web developer, at least I'm working towards becoming one lol.
 
 I'm currently learning React.js and parts of its ecosystem.
 
-I listen to a ton of music, I watch anime and I gameeeee.
+I listen to a ton of music, I watch anime and I game.🎮
+Oh and I can learn anything, if you pay me👀, lol kidding. 
+I love and really look forward to working with groups of people.
 
 Feel free to hit me up anytime on my socials
 
