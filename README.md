@@ -20,7 +20,7 @@ I'm currently learning React.js and parts of its ecosystem.
 I listen to a ton of music, I watch anime and I gameeeee.
 
 feel free to hit me up anytime
-[Twitter] https://twitter.com/aytheotaku
+[Twitter](https://twitter.com/aytheotaku)
 
 
 <!--
