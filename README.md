@@ -1,4 +1,4 @@
-# Watch me grow? :rocket:
+# HAPPY NEW YEAR:heart::sparkler::fireworks:
 
 Satou Kazuma
 >*This sunlight is my worst enemy* 
