@@ -5,7 +5,6 @@ Satou Kazuma
 >*after three straight all-nighters*
 
 ## Hi, I'm Ayomide :alien:
-I'm a front end web developer, at least I'm working towards becoming one lol.
 
 #### I've worked with
 * HTML
