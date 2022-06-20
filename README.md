@@ -21,7 +21,7 @@ On this day, after weeks of preparation, I passed my AZ-900 exam and got my firs
 
 ## JUNE 09, 2022: First Project
 ---
-Having passed the AZ-900, I basically googled projects that I could build (to make the theories and azure services that I had studied for the exam) stick. I came across the [Cloud Resume Challenge](https://cloudresumechallenge.dev/) and hopefully by the time you read this, you should be able to see that I've completed the challenge in this repo right here on my account and you should check it for more details on this. [My Cloud Resume Challenge](https://github.com/ay099/my-azure-resume)
+Having passed the AZ-900, I basically googled projects that I could build (to make the theories and azure services that I had studied for the exam) stick. I came across the [Cloud Resume Challenge](https://cloudresumechallenge.dev/) and hopefully by the time you read this, you should be able to see that I've completed the challenge in this repo right here on my second github account and you should check it for more details on this. [My Cloud Resume Challenge](https://github.com/ay099/my-azure-resume)
 
 ## JUNE 14, 2022: Is this how hackers feel?
 ---
