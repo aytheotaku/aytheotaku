@@ -2,7 +2,7 @@
 
 **`Backend Developer`**
 
-Hello, I'm Ayomide, a backend developer with a passion for building scalable and reliable systems and I'm always learning and looking for awesome ways to gain experience in the industry.
+Hello, I'm Ayomide, a backend developer with a passion for building scalable and reliable systems
 
   
 
