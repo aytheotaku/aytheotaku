@@ -1,6 +1,6 @@
 #  Ayomide Akinbo
 
-**`Backend Developer`**
+**`Dev`**
 
 Hello, I'm Ayomide, a backend developer with a passion for building scalable and reliable systems
 
