@@ -44,7 +44,6 @@ Hello, I'm Ayomide, a backend developer with a passion for building scalable and
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=aytheotaku&theme=tokyonight&border_radius=4.5)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aytheotaku&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ayomide's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aytheotaku&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
